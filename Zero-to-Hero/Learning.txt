@@ -1,0 +1,53 @@
+1. set a specific.measurable realistic and time-based goal
+2. Know exactly why you are learning to code
+3.imagine a big project
+4.research technologies and learn them
+
+
+
+5. understand the code that youre studying
+6. always type the code dont copy paste
+
+
+
+
+7. after learning a new feature use it immediately.
+8. take notes.
+9. challenge yourself.
+10. Don't be in hurry to complete the course fast.
+
+11. Practicing on your own is the most important thing to dont.
+12. Practice outside of courses.
+13: come up with your own project ideas.
+14: Dont stuck in tutorial hell.
+
+
+15. Dont get stuck trying to write the perfect code.
+16. Just write tons of code no matter the quality.
+17. Clean and efficient code will come with time.
+18. You can always refactor code later.
+
+19. Embarace the fact that you will never know everything.
+20: Just focus on what you need to acheive your goal!.
+
+
+21: Explain new concepts to other people. if you can explain it you truly understands it. 
+22. share your goals to make yourself accountable.
+
+23: misconception - take a couple of courses and you're done.
+24: courses are amazing starting point, but you are only the begining of your journey.
+
+
+solving problems
+
+1. stay calm and slow down don't just jump at a problem without a plan
+2. Take a very logical and rational approach
+
+
+4 steps to solve any problem
+
+1. make sure you 100% understand the problem. Ask the right question to get a clear picture of the problem
+
+2. Divide and conquer: Break a big problem into smaller sub-problems
+3. Dont afraid to do as much research as you have to
+4. for bigger problems, write pseudo-code befoew writing the actual cod
