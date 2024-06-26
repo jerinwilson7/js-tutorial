@@ -50,4 +50,4 @@ solving problems
 
 2. Divide and conquer: Break a big problem into smaller sub-problems
 3. Dont afraid to do as much research as you have to
-4. for bigger problems, write pseudo-code befoew writing the actual cod
+4. for bigger problems, write pseudo-code befoew writing the actual code
